@@ -1,6 +1,6 @@
 # webtest
 
-[배포 링크](incom-web-test.firebaseapp.com)
+incom-web-test.firebaseapp.com
 ## Getting Started
 
 This project is a starting point for a Flutter application.
